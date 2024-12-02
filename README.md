@@ -8,7 +8,8 @@ Hi there! 👋 I'm **Kaan Ekşi**, a passionate **Cyber Security** currently foc
 - 📚 I’m studying **Computer Engineering** at Maltepe University.
 
 ## 📫 How to reach me
-- 💼 [LinkedIn]((https://www.linkedin.com/in/kaan-ek%C5%9Fi-74937b269/)](https://www.linkedin.com/in/kaan-ek%C5%9Fi-74937b269/))  
+- 💼 [LinkedIn]
+- ![](https://www.linkedin.com/in/kaan-ek%C5%9Fi-74937b269/)
 - 📧 [Email](mailto:y.kaaneksi@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=Kaaneeksi&style=flat&color=238636&label=Profile+Views)
