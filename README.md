@@ -14,8 +14,8 @@ Hi there! 👋 I'm **Kaan Ekşi**, a passionate **Cyber Security** currently foc
 ![](https://komarev.com/ghpvc/?username=Kaaneeksi&style=flat&color=238636&label=Profile+Views)
  
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/kaaneeksi.png" alt="Your Image Badge" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaneeksi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kaaneeksi.png" alt="Your Image Badge" />
 </p>
 
 <!---
