@@ -12,9 +12,9 @@ Hi there! 👋 I'm **Kaan Ekşi**, a passionate **Cyber Security** currently foc
 - 📧 [Email](mailto:y.kaaneksi@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=Kaaneeksi&style=flat&color=238636&label=Profile+Views)
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaaneeksi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kaaneeksi.png" alt="Your Image Badge" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaneeksi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
